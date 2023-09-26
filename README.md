@@ -1,7 +1,8 @@
 ## Olá, sou Igor Eloi.
 
+- Cursando Tecnologia em Sistemas para Internet
 - Atualmente trabalhando com back-end em fase de treinamento
-- Estudando linguagem de programação JAVA com Spring Boot
+- Estudando linguagens de programação e construção de API's Rest
 - Email para contato: igoreloi1981@gmail.com
 - Pronome: ele/dele
   
